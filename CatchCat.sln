@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchCat", "CatchCat\CatchCat.csproj", "{DF19B5E3-15FB-4E4A-82A8-96993A55DEFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF19B5E3-15FB-4E4A-82A8-96993A55DEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF19B5E3-15FB-4E4A-82A8-96993A55DEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF19B5E3-15FB-4E4A-82A8-96993A55DEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF19B5E3-15FB-4E4A-82A8-96993A55DEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F5619CE-EE31-4533-BCFB-26159F155F35}
+	EndGlobalSection
+EndGlobal
